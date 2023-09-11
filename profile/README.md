@@ -13,8 +13,11 @@ Welcome to the GitHub repository for [Templately.co.uk](https://templately.co.uk
 
 ## Previews
 
-Here are some images to give you a preview of what Templately looks like:
+Here are some videos to give you a preview of what Templately looks like:
 
+https://github.com/Templately-uk/.github/assets/16080646/93ff6a81-9de2-4b83-9e7b-68149674b0ee
+
+https://github.com/Templately-uk/.github/assets/16080646/3ae62e77-53d1-4cf3-9ccb-e7271704b250
 
 ## License
 
