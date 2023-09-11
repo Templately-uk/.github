@@ -1,12 +1,28 @@
-## Hi there 👋
+# Templately (Portfolio example) - Archived
 
-<!--
+:warning: **This repository has been archived due to server costs.**
 
-**Here are some ideas to get you started:**
+Welcome to the GitHub repository for [Templately.co.uk](https://templately.co.uk), part of my developer portfolio. Templately is a simple and efficient email template engine designed to meet all your email needs.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features
+
+- 📚 Rich Library of Templates
+- 🔍 Searchable Templates
+- 🌐 Community Contributions
+- 📬 Templates for Various Email Purposes
+
+## Previews
+
+Here are some images to give you a preview of what Templately looks like:
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Made with ❤️ as a part of my developer portfolio. Check it out at [my Github page](https://github.com/james-buzz).
+
+---
+
