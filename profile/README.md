@@ -1,4 +1,4 @@
-# Templately (Portfolio example) - Archived
+# Templately (Portfolio example) - archived
 
 :warning: **This repository has been archived due to server costs.**
 
